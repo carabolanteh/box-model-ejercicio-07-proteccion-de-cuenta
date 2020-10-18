@@ -1,0 +1,67 @@
+body{
+    background-color: khaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.contenedor{
+    width: 300px;
+    height: fit-content;
+    background: white;
+    border-radius: 15px;
+    margin: 180px 0px 0px 500px;
+}
+.imagen{
+    width: 40px;
+    height: 50px;
+    margin: 0px 0px 0px 125px;
+    position: relative;
+    padding: 20px 0px 0px 0px;
+}
+.titulo{
+    width: 182px;
+    height: fit-content;
+    margin: 0px 0px 0px 55px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
+h2{
+    font-size: 16px;
+}
+span{
+    color:rgb(24, 24, 73);
+}
+span:hover{
+    color: blueviolet;
+}
+.texto{
+    width: 182px;
+    height: fit-content;
+    margin: 0px 0px 0px 55px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
+.recuperar{
+    width: 182px;
+    height: fit-content;
+    margin: 0px 0px 0px 55px;
+    background-color: rgba(204, 190, 190, 0.274);
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
+button{
+    width: 80px;
+    height: fit-content;
+    margin: 20px 0px 20px 115px;
+    background-color:rgba(10, 18, 133, 0.514);
+    padding: 2px;
+    text-align: center;
+    border-radius: 18px;
+    border: none;
+}
+button:hover{
+    cursor: pointer;
+    background-color: cadetblue;
+}
